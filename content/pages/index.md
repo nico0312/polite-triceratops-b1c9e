@@ -12,7 +12,7 @@ sections:
 
       Tú nos inspiras, no pares de soñar
     actions:
-      - title: See all items
+      - title: Antojate
         url: /store
         arrow: true
         style: primary
