@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/Fondo pag.png
     background_image_opacity: 65
     content: |
       # Donde la elegancia se viste de tí 
