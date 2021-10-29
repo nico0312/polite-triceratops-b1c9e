@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Anillos
 layout: category
 order: 4
 seo:
