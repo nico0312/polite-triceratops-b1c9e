@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '25.000'
 title: Cruces
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/WhatsApp Image 2021-10-26 at 10.47.25 PM.jpeg
