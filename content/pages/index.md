@@ -16,10 +16,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsu
-        url: '#'
-        style: primary
-        arrow: false
   - type: featured_products_section
     section_id: best_sellers_section
     title: Con amor para tí
