@@ -1,5 +1,5 @@
 ---
-title: Collares
+title: Aretes
 layout: category
 order: 1
 seo:
