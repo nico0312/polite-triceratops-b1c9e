@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '25000'
+price: '25.000'
 title: Triangulo
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
