@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Collares
 layout: category
 order: 1
 seo:
