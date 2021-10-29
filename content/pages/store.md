@@ -50,5 +50,5 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
-white_header: true
+white_header: false
 ---
