@@ -3,7 +3,7 @@ layout: product
 id: '2'
 price: '23.000'
 title: Collar cubano
-description: Suspendisse efficitur eget erat sit amet efficitur.
+description: Oro golfi
 default_thumbnail_image: images/plant2.jpg
 default_original_image: images/8.png
 order: 2
