@@ -31,7 +31,7 @@ sections:
     image: images/4.png
     background_image: /images/leaf.svg
     cta:
-      title: Discover
+      title: No esperes más
       url: /store
       style: primary
       arrow: true
