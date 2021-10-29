@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Collar cubano
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/plant2.jpg
 default_original_image: images/8.png
