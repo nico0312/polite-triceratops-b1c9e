@@ -7,9 +7,11 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: contáctanos
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: |+
+      Ante cualquier duda o inquietud por cualquiera de nuestros canales 
+
+      ![](images/Unknown.png) 3008187260
+
   - type: faq_section
     section_id: faq_section
     questions:
