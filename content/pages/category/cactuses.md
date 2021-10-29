@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Collares
 layout: category
 order: 2
 seo:
