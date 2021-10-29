@@ -20,7 +20,7 @@ sections:
           Colecciones que resaltan tu cultura y la sociedad
 
         image: images/Grecia-9d4be41f.png
-      - title: We think plants are the future
+      - title: Hechas con el corazón
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
