@@ -8,9 +8,9 @@ sections:
     background_image: images/Fondoooo.png
     background_image_opacity: 65
     content: |
-      # Donde la elegancia se viste de tí 
+      # ***Donde la elegancia se viste de tí***
 
-      Tú nos inspiras, no pares de soñar
+      *Tú nos inspiras, no pares de soñar*
     actions:
       - title: Antojate
         url: /store
