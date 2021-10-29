@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Hermosos anillos
-    subtitle: from $149.99
+    subtitle: desde $10.000
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
