@@ -27,7 +27,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Cuelga gafas
-    subtitle: from $149.99
+    subtitle: desde $12.000
     image: images/4.png
     background_image: /images/leaf.svg
     cta:
