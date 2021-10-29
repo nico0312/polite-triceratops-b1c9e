@@ -4,7 +4,7 @@ id: '2'
 price: '23.000'
 title: Collar cubano
 description: Oro golfi
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/8.png
 default_original_image: images/8.png
 order: 2
 category: content/pages/category/cactuses.md
