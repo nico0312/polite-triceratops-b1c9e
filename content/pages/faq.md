@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: Behold our FAQ
+    headline: contáctanos
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions for e-commerce merchants.
